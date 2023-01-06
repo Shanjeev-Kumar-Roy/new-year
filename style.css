@@ -126,3 +126,25 @@ ul {
 .twit, .yt{
     margin-left: 3px;
 }
+.depend-survive{
+    display: flex;
+   gap: 24px;
+}
+
+.depend1{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.img1{
+    padding: 100px;
+}
+.img2{
+    width: 576px;
+         height: 477px;
+}
+.lives{
+    font-size: 50px;
+}
+.lives-desc{
+    font-size: 30px;
+}
